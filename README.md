@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Medicine Reminder
-=======
+
 # Medicine Remider
->>>>>>> 8e733af9d6ae9ff1a00702bdb4e8e50071ba7c4e
+
 Name: Alisha Pandey 
 CollegeID: 9635201
 Batch: Jan19Ccle
