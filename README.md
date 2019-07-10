@@ -5,7 +5,7 @@
 
 Name: Alisha Pandey 
 CollegeID: 9635201
-Batch: Jan19Ccle
+Batch: Jan19C
 
 # Brief description of the domain of your project!
 Medicine Reminder application is all about providing the service of reminding the patient to take their medicine pills in the given appropriate time period with extra features.  It’s a small but life saver web application. This web-based application is very useful for those people who keeps forgetting to take medicine or even cannot identify the intake, units and details. Therefore, through this application health and life becomes fruitful. 
